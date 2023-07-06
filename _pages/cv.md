@@ -55,16 +55,18 @@ Manuscripts
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* *2023.5* [Oral](https://www.youtube.com/watch?v=m8rggUd7cAQ&t=11s) on ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Beijing Normal University, Beijing, China**
+* Teaching Assistant for COMPUTER GRAPHICS course
+  * Designed experimental homework and gave lectures.
+  * The main content includes: Introduction to OpenGL, Basic Rendering with OpenGL, Phong’s Shading and RayTracing.
+* Teaching Assistant for Lab Interns
+  * Provided basic scientific research training for undergraduate interns in the laboratory.
+  * The main content includes: Basic Machine Learning, Code Development Specification, Literature Search&Reading.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* *2022.10 - 2022.12* Du Xiaoman Financial, Beijing, China
