@@ -20,7 +20,7 @@ News
 
 Publications and Manuscripts
 ======
-* [G<\sup>2 Blending Ball B-Spline Curve by B-Spline](https://dl.acm.org/doi/10.1145/3585504), Yuming Zhao, Zhongke Wu, Xingce Wang, I3D 2023
+* [G<sup>2<\sup> Blending Ball B-Spline Curve by B-Spline](https://dl.acm.org/doi/10.1145/3585504), Yuming Zhao, Zhongke Wu, Xingce Wang, I3D 2023
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
