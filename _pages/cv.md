@@ -37,12 +37,22 @@ Skills
   * Some fluid simulation methods (SPH, LBM).
 * **Software:** C++, Python, MATLAB, Blender, CAD, Rhino, OpenGL, Qt framework
 
-Publications
+Publications & Manuscripts
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Publications
+------
+1. G<sup>2</sup> Blending Ball B-Spline Curve by B-Spline
+    - **Yuming Zhao**, Zhongke Wu, Xingce Wang, and Xinyue Li
+    - ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2023
+    - [Link](https://doi.org/10.1145/3585504)
+   
+Manuscripts
+------
+1. Blending B-Spline Curves by Piecewise Polynomial
+    - **Yuming Zhao**, Zhongke Wu, Xingce Wang, and Xinyue Li
+2. N-Dimensional Spherical B-Spline Curve Fitting based on Geodesic Least Square with Adaptive Knot Placement
+    - **Yuming Zhao**, Zhongke Wu, and Xingce Wang
+
 Talks
 ======
   <ul>{% for post in site.talks %}
