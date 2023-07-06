@@ -18,7 +18,7 @@ News
 * *2023.5* A talk is given on ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2023!
 * *2023.2* One paper is accepted by I3DG 2023!
 
-Publications and Manuscripts
+Publications
 ------
 * [G<sup>2</sup> Blending Ball B-Spline Curve by B-Spline](https://dl.acm.org/doi/10.1145/3585504), **Yuming Zhao**, Zhongke Wu, Xingce Wang, I3D 2023
 
