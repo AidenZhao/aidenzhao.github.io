@@ -30,8 +30,8 @@ Publications and Manuscripts
 Educations
 ------
 * *2021.9 - 2024.6(Expected)* MS in Computer Applied Technology, Beijing Normal University, School of Artificial Intelligence, Beijing, China 
-* *2017.9 - 2021.6(Expected)* BSc in Computer Science and Technology, Beijing Normal University, School of Artificial Intelligence, Beijing, China
-* *2019.7 - 2019.8(Expected)* Summer School in Big Data and High-Performance Computing, Cardiff University, Cardiff, UK
+* *2017.9 - 2021.6* BSc in Computer Science and Technology, Beijing Normal University, School of Artificial Intelligence, Beijing, China
+* *2019.7 - 2019.8* Summer School in Big Data and High-Performance Computing, Cardiff University, Cardiff, UK
   
 Talks
 ------
