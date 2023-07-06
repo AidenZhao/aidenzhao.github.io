@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Compuiter Graphics master with research interests in Geometry Processing. I am now from School of Artificial Intelligence in Beijing Normal University, where I am very fortunate to be advised by Prof. Zhongke Wu. My research interests include topics in Compuiter Graphics and Artificial Intelligence. Most recently, I am interested in the following topics:
+I am a Computer Graphics master with research interests in Geometry Processing. I am now from School of Artificial Intelligence in Beijing Normal University, where I am very fortunate to be advised by Prof. Zhongke Wu. My research interests include topics in Compuiter Graphics and Artificial Intelligence. Most recently, I am interested in the following topics:
 * Geometry Processing
 * Geometry Modeling
 * Shape Analysis
