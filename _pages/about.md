@@ -32,7 +32,7 @@ Educations
   
 Talks
 ------
-* *2023.5* ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games
+* *2023.5* [Oral](https://www.youtube.com/watch?v=m8rggUd7cAQ&t=11s) on ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games
 
 Interships
 ------
