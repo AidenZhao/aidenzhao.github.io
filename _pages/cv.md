@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Artificial Intelligence, Beijing Normal University, 2021
+* M.S. in School of Artificial Intelligence, Beijing Normal University, 2024 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* *2021.9 - Present*: Master Degree Candidate
+  * Beijing Normal University, School of Artificial Intelligence, Beijing, China
+  * B-spline Curve Blending
+  * Ball B-spline Curve Blending
+  * B-spline Curve Fitting on N-dimensional Sphere
+  * Supervisor: Prof. Zhongke Wu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* *2017.9 - 2021.6*: Undergraduate Research Assistant 
+  * Beijing Normal University, School of Artificial Intelligence, Beijing, China
+  * Indoor Scene Construction Based on Multimodal Input *(PIs: Prof. Zhongke Wu & Prof. Xingce Wang)*
+  * Brain Tumor Segmentation and Visualization *(PI: Prof. Yanlin Luo)*
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Math:** Riemannian geometry, Calculus, Linear algebra, Probability and Mathematical statistics.
+* **Computer Graphics:**
+  * Common geometric modeling and geometry processing methods (B-spline Curve&Surface, Mesh, Point Cloud).
+  * Common rendering methods (Radiosity Method, Photo Mapping, Ray Tracing, Volume rendering).
+  * Some fluid simulation methods (SPH, LBM).
+* **Software:** C++, Python, MATLAB, Blender, CAD, Rhino, OpenGL, Qt framework
 
 Publications
 ======
