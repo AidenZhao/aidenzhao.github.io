@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Full Resume](https://aidenzhao.github.io/files/YumingZhao_Resume_2023_0705.pdf)
 
 Education
 ======
@@ -39,6 +40,7 @@ Skills
 
 Publications & Manuscripts
 ======
+
 Publications
 ------
 1. G<sup>2</sup> Blending Ball B-Spline Curve by B-Spline
