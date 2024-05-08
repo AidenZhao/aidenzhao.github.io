@@ -15,12 +15,14 @@ I am a Computer Graphics master with research interests in Geometry Processing. 
 
 🔥News
 ------
+* *2024.4* A talk is given on EuroGraphics 2024!
 * *2024.2* One paper is accepted by EuroGraphics 2024!
 * *2023.5* A talk is given on ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2023!
 * *2023.2* One paper is accepted by I3DG 2023!
 
 📝Publications
 ------
+* [GLS-PIA: n-Dimensional Spherical B-Spline Curve Fitting based on Geodesic Least Square with Adaptive Knot Placement](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15021), **Yuming Zhao**, Zhongke Wu, Xingce Wang, EG 2024
 * [G<sup>2</sup> Blending Ball B-Spline Curve by B-Spline](https://dl.acm.org/doi/10.1145/3585504), **Yuming Zhao**, Zhongke Wu, Xingce Wang, I3D 2023
 
 🎓Educations
@@ -33,7 +35,8 @@ I am a Computer Graphics master with research interests in Geometry Processing. 
   
 💬Talks
 ------
-* *2023.5* [Oral](https://www.youtube.com/watch?v=m8rggUd7cAQ&t=11s) on ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games
+* *2024.4* Oral on EuroGraphics 2024.
+* *2023.5* [Oral](https://www.youtube.com/watch?v=m8rggUd7cAQ&t=11s) on ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2023.
 
 💻Interships
 ------
