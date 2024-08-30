@@ -29,10 +29,10 @@ I am a Computer Graphics Ph.D studedt with research interests in Geometry Proces
 🎓Educations
 ------
 * *2024.9 - now*
-  Ph.D student in Computer Science
-  City University of Hong Kong, Department of Computer Science, Hong Kang 
+  Ph.D student in Computer Science,
+  City University of Hong Kong, Department of Computer Science, Hong Kong 
 * *2021.9 - 2024.6*
-  MS in Computer Applied Technology
+  MS in Computer Applied Technology,
   Beijing Normal University, School of Artificial Intelligence, Beijing, China 
 * *2017.9 - 2021.6* BSc in Computer Science and Technology, Beijing Normal University, School of Artificial Intelligence, Beijing, China
 * *2019.7 - 2019.8* Summer School in Big Data and High-Performance Computing, Cardiff University, Cardiff, UK
