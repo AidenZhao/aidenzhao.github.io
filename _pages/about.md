@@ -15,7 +15,7 @@ I am a Computer Graphics Ph.D student with research interests in Geometry Proces
 
 🔥News
 ------
-* *2024.8* One paper is accepted by PacificGraphics 2024!
+* *2024.8* One paper is accepted by PacificGraphics 2024! Congrats to Chunhao!
 * *2024.4* A talk is given on EuroGraphics 2024!
 * *2024.2* One paper is accepted by EuroGraphics 2024!
 * *2023.5* A talk is given on ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2023!
