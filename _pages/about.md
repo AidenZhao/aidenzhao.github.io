@@ -25,6 +25,86 @@ I am a Computer Graphics Ph.D student with research interests in Geometry Proces
 ------
 * [GLS-PIA: n-Dimensional Spherical B-Spline Curve Fitting based on Geodesic Least Square with Adaptive Knot Placement](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15021), **Yuming Zhao**, Zhongke Wu, Xingce Wang, EG 2024
 * [G<sup>2</sup> Blending Ball B-Spline Curve by B-Spline](https://dl.acm.org/doi/10.1145/3585504), **Yuming Zhao**, Zhongke Wu, Xingce Wang, I3D 2023
+<table style="border: none;">
+  <tbody>
+  
+  
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/flexpara.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2504.19210">
+          <papertitle><font size="3">FlexPara: Flexible Neural Surface Parameterization</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Yuming Zhao</strong>, Qijian Zhang, Junhui Hou, Jiazhi Xia, Wenping Wang, Ying He</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr style="border: 1.0px solid grey;"/>
+
+<table style="border: none;">
+  <tbody>
+    
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/dbsc.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15239">
+          <papertitle><font size="3">Disk B-spline on S^2: A Skeleton-based Region Representation on 2-Sphere</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Chunhao Zheng, <strong>Yuming Zhao</strong>, Zhongke Wu, Xingce Wang</font>
+        <br>
+        <font size="3"><em>Computer Graphics forum (Proc. Pacific Graphics)</em> 2024</font>
+      </td>
+    </tr>
+    
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+    
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/GLS-PIA.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15021">
+          <papertitle><font size="3">GLS-PIA: n-Dimensional Spherical B-Spline Curve Fitting based on Geodesic Least Square with Adaptive Knot Placement</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Yuming Zhao</strong>, Zhongke Wu, Xingce Wang</font>
+        <br>
+        <font size="3"><em>Computer Graphics forum (Proc. EuroGraphics)</em> 2024</font>
+      </td>
+    </tr>
+    
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/blending.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3585504">
+          <papertitle><font size="3">G2 Blending Ball B-Spline Curve by B-Spline</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Yuming Zhao</strong>, Zhongke Wu, Xingce Wang, Xinyue Liu</font>
+        <br>
+        <font size="3"><em>ACM I3DG</em> 2024</font>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 🎓Educations
 ------
