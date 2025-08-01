@@ -47,7 +47,6 @@ I am a Computer Graphics Ph.D student with research interests in Geometry Proces
 
 <table style="border: none;">
   <tbody>
-    
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/dbsc.png" height="100">
@@ -62,11 +61,9 @@ I am a Computer Graphics Ph.D student with research interests in Geometry Proces
         <font size="3"><em>Computer Graphics forum (Proc. Pacific Graphics)</em> 2024</font>
       </td>
     </tr>
-    
     <tr style="height: 15px; background: transparent; border: none;">
       <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
-    
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/GLS-PIA.png" height="100">
@@ -81,11 +78,9 @@ I am a Computer Graphics Ph.D student with research interests in Geometry Proces
         <font size="3"><em>Computer Graphics forum (Proc. EuroGraphics)</em> 2024</font>
       </td>
     </tr>
-    
     <tr style="height: 15px; background: transparent; border: none;">
       <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
-
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/blending.png" height="100">
