@@ -114,6 +114,6 @@ I am a Computer Graphics Ph.D student with research interests in Geometry Proces
 * *2024.4* Oral on EuroGraphics 2024.
 * *2023.5* [Oral](https://www.youtube.com/watch?v=m8rggUd7cAQ&t=11s) on ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2023.
 
-💻Interships
+💻Internships
 ------
 * *2022.10 - 2022.12* Du Xiaoman Financial, Beijing, China
