@@ -23,12 +23,9 @@ I am a Computer Graphics Ph.D student with research interests in Geometry Proces
 
 📝Publications
 ------
-* [GLS-PIA: n-Dimensional Spherical B-Spline Curve Fitting based on Geodesic Least Square with Adaptive Knot Placement](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15021), **Yuming Zhao**, Zhongke Wu, Xingce Wang, EG 2024
-* [G<sup>2</sup> Blending Ball B-Spline Curve by B-Spline](https://dl.acm.org/doi/10.1145/3585504), **Yuming Zhao**, Zhongke Wu, Xingce Wang, I3D 2023
+
 <table style="border: none;">
   <tbody>
-  
-  
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/flexpara.png" height="100">
