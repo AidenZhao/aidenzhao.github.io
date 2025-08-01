@@ -92,7 +92,7 @@ I am a Computer Graphics Ph.D student with research interests in Geometry Proces
         <br>
         <font size="3"><strong>Yuming Zhao</strong>, Zhongke Wu, Xingce Wang, Xinyue Liu</font>
         <br>
-        <font size="3"><em>ACM I3DG</em> 2024</font>
+        <font size="3"><em>ACM I3DG</em> 2023</font>
       </td>
     </tr>
   </tbody>
