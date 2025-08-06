@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Graphics Ph.D student with research interests in Geometry Processing and 3D vision. I am now from Department of Computer Science in City University of Hong Kong, where I am very fortunate to be advised by Prof. Junhui Hou. I got my master degree from School of Artificial Intelligence in Beijing Normal University, where I am very fortunate to be advised by Prof. Zhongke Wu. My research interests include topics in Compuiter Graphics and Artificial Intelligence. Most recently, I am interested in the following topics:
-* Geometry Processing
-* Geometry Modeling
-* Shape Analysis
+I am a Computer Graphics Ph.D student with research interests in Geometry Processing and 3D vision. I am now from Department of Computer Science in City University of Hong Kong, where I am very fortunate to be advised by Prof. Junhui Hou. 
+
+I got my master degree from School of Artificial Intelligence in Beijing Normal University, where I am very fortunate to be advised by Prof. Zhongke Wu.
+
+My research interests include topics in Compuiter Graphics and Artificial Intelligence. Most recently, I am interested in the following topics:
+* AI in Graphics
+* Spatial Computing
+* Geometry Processing / Modeling
 
 🔥News
 ------
