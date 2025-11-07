@@ -19,6 +19,7 @@ My research interests include topics in Compuiter Graphics and Artificial Intell
 
 🔥News
 ------
+* *2025.11* **FlexPara** is accepted by TPAMI 2025!
 * *2024.8* One paper is accepted by PacificGraphics 2024! Congrats to Chunhao!
 * *2024.4* A talk is given on EuroGraphics 2024!
 * *2024.2* One paper is accepted by EuroGraphics 2024!
