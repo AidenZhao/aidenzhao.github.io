@@ -44,6 +44,9 @@ My research interests include topics in Compuiter Graphics and Artificial Intell
         <font size="3"><em>TPAMI</em> 2025</font>
       </td>
     </tr>
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/dbsc.png" height="100">
