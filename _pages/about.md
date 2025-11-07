@@ -28,7 +28,6 @@ My research interests include topics in Compuiter Graphics and Artificial Intell
 
 📝Publications
 ------
-
 <table style="border: none;">
   <tbody>
     <tr>
@@ -42,16 +41,9 @@ My research interests include topics in Compuiter Graphics and Artificial Intell
         <br>
         <font size="3"><strong>Yuming Zhao</strong>, Qijian Zhang, Junhui Hou, Jiazhi Xia, Wenping Wang, Ying He</font>
         <br>
-        <font size="3"><em>Pre-print</em></font>
+        <font size="3"><em>TPAMI</em> 2025</font>
       </td>
     </tr>
-  </tbody>
-</table>
-
-<hr style="border: 1.0px solid grey;"/>
-
-<table style="border: none;">
-  <tbody>
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/dbsc.png" height="100">
