@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Graphics Ph.D student with research interests in Geometry Processing and 3D vision. I am now from Department of Computer Science in City University of Hong Kong, where I am very fortunate to be advised by Prof. Junhui Hou. 
+I am a Computer Graphics Ph.D student with research interests in Geometry Processing and 3D vision. I am now from Department of Computer Science in City University of Hong Kong, where I am very fortunate to be advised by Prof. Junhui Hou. I am also a **Research Scientist Intern** at **Meshy AI**.
 
 I got my master degree from School of Artificial Intelligence in Beijing Normal University, where I am very fortunate to be advised by Prof. Zhongke Wu.
 
@@ -19,6 +19,7 @@ My research interests include topics in Compuiter Graphics and Artificial Intell
 
 🔥News
 ------
+* *2026.5* **PRISM** is accepted by ICLR 2026!
 * *2025.11* **FlexPara** is accepted by TPAMI 2025!
 * *2024.8* One paper is accepted by PacificGraphics 2024! Congrats to Chunhao!
 * *2024.4* A talk is given on EuroGraphics 2024!
@@ -116,4 +117,5 @@ My research interests include topics in Compuiter Graphics and Artificial Intell
 
 💻Internships
 ------
+* *2025.11 - now* Research Scientist Intern, Meshy AI
 * *2022.10 - 2022.12* Du Xiaoman Financial, Beijing, China
