@@ -15,7 +15,9 @@ I got my master degree from School of Artificial Intelligence in Beijing Normal 
 My research interests include topics in Compuiter Graphics and Artificial Intelligence. Most recently, I am interested in the following topics:
 * AI in Graphics
 * Spatial Computing
-* Geometry Processing / Modeling
+* World Model
+
+**Note**: I am actively looking for collaborators. If you find my research interesting, welcome to contact me via email!
 
 🔥News
 ------
