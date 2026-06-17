@@ -13,7 +13,7 @@ I am a Computer Graphics Ph.D student with research interests in Geometry Proces
 I got my master degree from School of Artificial Intelligence in Beijing Normal University, where I am very fortunate to be advised by Prof. Zhongke Wu.
 
 My research interests include topics in Compuiter Graphics and Artificial Intelligence. Most recently, I am interested in the following topics:
-* AI in Graphics
+* Generative AI
 * Spatial Computing
 * World Model
 
