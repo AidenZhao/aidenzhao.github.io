@@ -35,6 +35,23 @@ My research interests include topics in Compuiter Graphics and Artificial Intell
   <tbody>
     <tr>
       <td style="border: none;" width="25%">
+        <img src="images/PRSIM.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2606.02268">
+          <papertitle><font size="3">From Extrinsic to Intrinsic: Geodesic-Guided Representation Learning for 3D Geometric Data</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Yuming Zhao</strong>, Junhui Hou, Qijian Zhang, Jia Qin, Ying He</font>
+        <br>
+        <font size="3"><em>ICML</em> 2026</font>
+      </td>
+    </tr>
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+    <tr>
+      <td style="border: none;" width="25%">
         <img src="images/flexpara.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
