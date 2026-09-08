@@ -36,6 +36,23 @@ My research interests include topics in Compuiter Graphics and Artificial Intell
   <tbody>
     <tr>
       <td style="border: none;" width="25%">
+        <img src="images/SeamFlow.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2609.04751">
+          <papertitle><font size="3">SeamFlow: Structure-Aware Flow Matching on Edge Probabilities for Artist-Like UV Unwrapping</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Yuming Zhao</strong>, Zangyueyang Xian, Qijian Zhang, Rendong Liang, Qin Jia, Ying He, Junhui Hou</font>
+        <br>
+        <font size="3"><em>SIGGRAPH Asia</em> 2026</font>
+      </td>
+    </tr>
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+    <tr>
+      <td style="border: none;" width="25%">
         <img src="images/PRSIM.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
