@@ -21,6 +21,7 @@ My research interests include topics in Compuiter Graphics and Artificial Intell
 
 🔥News
 ------
+* *2026.8* **SeamFlow** is accepted by SIGGRAPH Asia 2026!
 * *2026.5* **PRISM** is accepted by ICML 2026!
 * *2025.11* **FlexPara** is accepted by TPAMI 2025!
 * *2024.8* One paper is accepted by PacificGraphics 2024! Congrats to Chunhao!
